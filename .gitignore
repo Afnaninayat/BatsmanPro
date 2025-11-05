@@ -7,6 +7,9 @@
 .buildlog/
 .history
 
+backend/venv/
+backend/__pycache__/
+backend/models
 backend/updated_script
 backend/bestBat.pt
 backend/cricket_ball_detector.pt
