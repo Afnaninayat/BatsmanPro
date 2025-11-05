@@ -7,8 +7,9 @@
 .buildlog/
 .history
 
-
-
+backend/updated_script
+backend/bestBat.pt
+backend/cricket_ball_detector.pt
 # Flutter repo-specific
 /bin/cache/
 /bin/internal/bootstrap.bat
