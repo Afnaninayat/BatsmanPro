@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "242407295718",
+    "project_id": "batsman-pro",
+    "storage_bucket": "batsman-pro.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242407295718:android:8c782673dbc2d0345fc927",
+        "android_client_info": {
+          "package_name": "com.example.batsmanpro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5y5Baf-743fh_lT2kKyG7uiGPaJBbmAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

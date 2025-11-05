@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "379600488574",
+    "project_id": "batsman-pro-2e8bc",
+    "storage_bucket": "batsman-pro-2e8bc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379600488574:android:d3efae3859d1d473ebb02f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrcx3oABCnFAnilg1xhouxD6pZDgnGIdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

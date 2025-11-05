@@ -1,0 +1,53 @@
+name: flutter_application_1
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.14.0
+  firebase_auth: ^5.6.0
+  file_picker: ^6.1.1
+  firebase_storage: ^12.4.7
+  path: ^1.9.0
+  http: ^0.13.6
+  video_player_web: ^2.3.5
+  video_player: ^2.7.2
+  cloud_firestore: ^5.0.0
+  lottie: ^3.0.0
+  flutter_launcher_icons: ^0.14.4
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/animations/
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/logo.png"
+  adaptive_icon_background: "#FFFFFF"
+  adaptive_icon_foreground: "assets/images/logo.png"
+
+fonts:
+  - family: Poppins
+    fonts:
+      - asset: assets/fonts/Poppins-Regular.ttf
+      - asset: assets/fonts/Poppins-Bold.ttf
+        weight: 700
+
+Gold Gradient:  #eabc5c → #d7942e  
+Accent:         #ffe000  
+Dark Contrast:  #3c280d  
+Background:     #000000 (rich contrast)  
